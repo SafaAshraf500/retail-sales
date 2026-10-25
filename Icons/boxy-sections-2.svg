@@ -1,0 +1,58 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+            svg .primary { fill: #0e4d20; }
+            svg .secondary { fill: #bea218; }
+            svg .primary-stroke { stroke: #0e4d20; }
+            svg .secondary-stroke { stroke: #bea218; }
+            svg .background { fill: #eeedf5; }
+            svg .frame { fill: #f6f6f6; }
+        </style>
+    <g id="Power BI 16:9 Background">
+        <rect id="16:9" width="1280" height="720" class="background"></rect>
+        <rect id="Rectangle 1" width="204" height="720" class="primary"></rect>
+        <rect id="Rectangle 2" x="216" y="105" width="1054" height="95" fill="white"></rect>
+        <line id="Line 3" x1="522" y1="128" x2="522" y2="178" class="secondary-stroke" stroke-width="2"></line>
+        <line id="Line 5" x1="881" y1="128" x2="881" y2="178" class="secondary-stroke" stroke-width="2"></line>
+        <g id="Rectangle 4" filter="url(#filter0_d_47_3357)">
+            <rect x="216" y="212" width="768" height="180" fill="white"></rect>
+        </g>
+        <g id="Rectangle 6" filter="url(#filter1_d_47_3357)">
+            <rect x="216" y="405" width="768" height="302" fill="white"></rect>
+        </g>
+        <g id="Rectangle 8" filter="url(#filter2_d_47_3357)">
+            <rect x="1002" y="212" width="268" height="495" fill="white"></rect>
+        </g>
+    </g>
+    <defs>
+        <filter id="filter0_d_47_3357" x="212" y="212" width="776" height="188" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+            <feOffset dy="4"></feOffset>
+            <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+            <feComposite in2="hardAlpha" operator="out"></feComposite>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_47_3357"></feBlend>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_47_3357" result="shape"></feBlend>
+        </filter>
+        <filter id="filter1_d_47_3357" x="212" y="405" width="776" height="310" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+            <feOffset dy="4"></feOffset>
+            <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+            <feComposite in2="hardAlpha" operator="out"></feComposite>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_47_3357"></feBlend>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_47_3357" result="shape"></feBlend>
+        </filter>
+        <filter id="filter2_d_47_3357" x="998" y="212" width="276" height="503" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+            <feOffset dy="4"></feOffset>
+            <feGaussianBlur stdDeviation="2"></feGaussianBlur>
+            <feComposite in2="hardAlpha" operator="out"></feComposite>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_47_3357"></feBlend>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_47_3357" result="shape"></feBlend>
+        </filter>
+    </defs>
+</svg>
